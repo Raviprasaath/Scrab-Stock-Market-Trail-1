@@ -1,6 +1,5 @@
 # Stock-Market-Trail-1
 
-hosted link ~ https://stock-market-trail-1.vercel.app/#news
 
 Stock Market Dashboard
 
